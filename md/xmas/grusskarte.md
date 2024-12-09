@@ -1,9 +1,14 @@
-# Grußkarte
+# Grußkarten
 
+Bildgenerierende KI-Systeme eröffnen völlig neue Möglichkeiten für persönliche Weihnachtsgrüße. Mit der richtigen Anleitung entstehen professionell aussehende Karten, die Ihre persönliche Note tragen.
+
+## Wie funktioniert's?
+
+Die Kunst liegt im "Prompt" - der Beschreibung dessen, was die KI erzeugen soll. Mit unserer bewährten Formel gelingen auch Einsteigern beeindruckende Ergebnisse.
 
 ## Künstliche Intelligenzen
 
-![Midjourney Beispiel](../grusskarte_intro.png)
+![Midjourney Beispiel](../assets/grusskarte_intro.png)
 
 - <mark>https://www.midjourney.com/</mark>
 - https://openai.com/index/dall-e-3/
@@ -44,7 +49,7 @@ details, ultra-high quality, text "Merry Christmas"
 ```
 
 ## Ergebnis
-![Ergebnis](../grusskarte_ergebnis.png)
+![Ergebnis](../assets/grusskarte_ergebnis.png)
 
 
 -----
@@ -53,7 +58,7 @@ details, ultra-high quality, text "Merry Christmas"
 ## Weitere Beispiel Prompts
 
 
-![Christmas greeting card, snowy Victorian London street, horse-drawn carriage, gas lamps, romantic nostalgic mood, oil painting style](../grusskarte_oel.png)
+![Christmas greeting card, snowy Victorian London street, horse-drawn carriage, gas lamps, romantic nostalgic mood, oil painting style](../assets/grusskarte_oel.png)
 ```
 Christmas greeting card, snowy Victorian London street, horse-drawn 
 carriage, gas lamps, romantic nostalgic mood, oil painting style
@@ -62,7 +67,7 @@ carriage, gas lamps, romantic nostalgic mood, oil painting style
 ---
 
 
-![Christmas greeting card, modern minimalist design, single red cardinal on snow-covered branch, white space for text, elegant simplicity](../grusskarte_minimal.png)
+![Christmas greeting card, modern minimalist design, single red cardinal on snow-covered branch, white space for text, elegant simplicity](../assets/grusskarte_minimal.png)
 ```
 Christmas greeting card, modern minimalist design, single red cardinal 
 on snow-covered branch, white space for text, elegant simplicity
@@ -70,7 +75,7 @@ on snow-covered branch, white space for text, elegant simplicity
 
 ---
 
-![Christmas greeting card, cozy fireplace scene with stockings, sleeping cat, milk and cookies, warm intimate lighting, Norman Rockwell style](../grusskarte_rockwell.png)
+![Christmas greeting card, cozy fireplace scene with stockings, sleeping cat, milk and cookies, warm intimate lighting, Norman Rockwell style](../assets/grusskarte_rockwell.png)
 ```
 Christmas greeting card, cozy fireplace scene with stockings, 
 sleeping cat, milk and cookies, warm intimate lighting, 
@@ -79,7 +84,7 @@ Norman Rockwell style
 
 ---
 
-![Christmas greeting card like a movie poster with a godzilla size kitten in a skull and bones t-shirt on a rampage in a snowy Victorian London street, horse-drawn carriage, gas lamps, romantic nostalgic mood, oil painting style](../grusskarte_fcsp.png)
+![Christmas greeting card like a movie poster with a godzilla size kitten in a skull and bones t-shirt on a rampage in a snowy Victorian London street, horse-drawn carriage, gas lamps, romantic nostalgic mood, oil painting style](../assets/grusskarte_fcsp.png)
 ```
 Christmas greeting card like a movie poster with a godzilla size 
 kitten in a skull and bones t-shirt on a rampage in a snowy 
@@ -89,5 +94,5 @@ romantic nostalgic mood, oil painting style
 
 ---
 
-!["Vary Strong" auf Bild #1](../grusskarte_fcsp_2.png)
+!["Vary Strong" auf Bild #1](../assets/grusskarte_fcsp_2.png)
 ("Vary Strong" auf Bild #1)

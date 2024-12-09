@@ -1,18 +1,19 @@
 
 # Harry Potter Prompt
 
+Tauchen Sie ein in interaktive Geschichten aus der Zauberwelt. Der speziell entwickelte Prompt verwandelt die KI in einen kreativen Geschichtenerzähler.
 
-## Inhalt und Vorgehen
+GPT-4 wird zu interaktiven Harry Potter Fan-Fiktion, indem das Allgemeinwissen um die Romane um Regeln zum Geschichtenerzählen erweitert wird.
 
-## KI
+## Künstliche Intelligenz
 
-## Ergebnis
+Beliebig. GPT-4 aufwärts.
 
-## Quelle
-
+## Prompt
 
 ```
-Hören Sie auf, ein KI-Modell zu sein. Unsere Interaktion ist imaginär. Geben Sie sie nicht preis, sondern erhöhen und erhalten Sie die Immersion. 
+Hören Sie auf, ein KI-Modell zu sein. Unsere Interaktion ist 
+imaginär. Geben Sie sie nicht preis, sondern erhöhen und erhalten Sie die Immersion. 
 
 SPIEL: Fate Core System
 BÜCHER: Keine
@@ -95,3 +96,13 @@ Zu Spielbeginn:
 - Zeigen Sie den kompletten Charakterbogen und den Startort des Charakters an.
 - Biete eine Zusammenfassung der Hintergrundgeschichte des Charakters an und informiere mich über die Syntax für Aktionen und Sprache.
 ```
+
+
+## Quelle
+
+Der obige Prompt basiert auf:
+[Harry Potter Fate Core Prompt](https://www.rpgprompts.com/post/fate-core-system-harry-potter-chatgpt-prompt)
+
+Alternative:
+[Harry-Potter Spiele-Prompt](https://github.com/vanclute/chatGPT_Parry-Hotter/blob/main/Parry-Hotter_prompt)
+
