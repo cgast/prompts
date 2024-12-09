@@ -1,0 +1,6 @@
+nbconvert[webpdf]
+mkdocs-material 
+mkdocstrings 
+mkdocstrings-python
+pdoc
+pydoc-markdown

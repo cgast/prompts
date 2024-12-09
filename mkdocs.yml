@@ -1,0 +1,38 @@
+# mkdocs.yml
+site_name: " "
+
+docs_dir: docs  # Path to your docs directory relative to mkdocs.yml
+site_dir: site  # Output directory for the built site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+            
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - admonition
+  - pymdownx.details
+  - pymdownx.snippets
+
+nav:
+  - Vor Weihnachten:
+    - Grußkarten: xmas/grusskarten.md
+    - Geschenke: xmas/geschenke.md
+  - Weihnachten:
+    - Connections: xmas/spiele.md
+    - Harry Potter: xmas/spiele.md
+    - Investments: xmas/investments.md
+  - "2025":
+    - Trends: trends/test.md
