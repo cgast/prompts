@@ -49,10 +49,8 @@ markdown_extensions:
 
 nav:
   - Start: index.md
-  - Vor Weihnachten:
-    - Grußkarten: xmas/grusskarte.md
-    - Geschenke Finder: xmas/geschenke.md
-  - Weihnachten:
-    - Connections: games/connections.md
-    - Harry Potter: games/harry_potter.md
-    - Investments: data_analytics/investment.md
+  - Grußkarten: xmas/grusskarte.md
+  - Geschenke-Finder: xmas/geschenke.md
+  - Connections: games/connections.md
+  - Harry Potter: games/harry_potter.md
+  - Investments: data_analytics/investment.md
