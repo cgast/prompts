@@ -15,6 +15,23 @@ theme:
     - search.highlight
   logo: assets/favicon-192x192.png
   favicon: assets/logo.svg  
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey        # Color for headers, navigation, etc.
+      accent: deep orange   # Color for links, buttons, etc.
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      accent: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 plugins:
   - search
