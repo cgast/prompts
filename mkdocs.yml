@@ -13,6 +13,8 @@ theme:
     - navigation.expand
     - search.suggest
     - search.highlight
+  logo: assets/favicon-192x192.png
+  favicon: assets/logo.svg  
 
 plugins:
   - search
@@ -27,12 +29,11 @@ markdown_extensions:
   - pymdownx.snippets
 
 nav:
+  - Start: index.md
   - Vor Weihnachten:
-    - Grußkarten: xmas/grusskarten.md
+    - Grußkarten: xmas/grusskarte.md
     - Geschenke: xmas/geschenke.md
   - Weihnachten:
-    - Connections: xmas/spiele.md
-    - Harry Potter: xmas/spiele.md
-    - Investments: xmas/investments.md
-  - "2025":
-    - Trends: trends/test.md
+    - Connections: games/connections.md
+    - Harry Potter: games/harry_potter.md
+    - Investments: data_analytics/investment.md

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Background circle -->
+  <circle cx="12" cy="12" r="11" fill="#2196f3"/>
+  
+  <!-- Stylized "M" -->
+  <path d="M6 7v10l3-3 3 3 3-3 3 3V7H6z" fill="white"/>
+  
+  <!-- Optional decorative elements -->
+  <circle cx="12" cy="12" r="2" fill="#1565c0"/>
+</svg>
