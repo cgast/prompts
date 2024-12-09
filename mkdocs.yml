@@ -1,8 +1,8 @@
 # mkdocs.yml
 site_name: " "
 
-docs_dir: docs  # Path to your docs directory relative to mkdocs.yml
-site_dir: site  # Output directory for the built site
+docs_dir: md  # Path to your docs directory relative to mkdocs.yml
+site_dir: docs  # Output directory for the built site
 
 theme:
   name: material
